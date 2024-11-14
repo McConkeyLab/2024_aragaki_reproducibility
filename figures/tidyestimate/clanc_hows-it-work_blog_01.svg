@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1400"
+   height="700"
+   viewBox="0 0 1400 700"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="clanc_hows-it-work_blog_01.svg"
+   inkscape:export-filename="clanc_hows-it-work.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.33513916"
+     inkscape:cx="-86.53122"
+     inkscape:cy="481.88938"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-505.06627,-3.2298709)"
+       x="0"
+       y="0" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3" />
+    </marker>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="359.31824"
+       height="79.761803"
+       id="rect2" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-4-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-2-7"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,196.33191,203.22591)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-4-6"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-06-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,-31.69203,-21.257377)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,157.27004,182.40397)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-8"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,197.77625,166.39546)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-5"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-5-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-8-8"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,148.66896,135.57328)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-5-2"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-0-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-5"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,178.99994,144.00832)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-8"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-81"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,114.00501,193.83776)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-3"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-39"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-0"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,124.8375,152.67431)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-39"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-19" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-05"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,148.66897,102.12271)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-6"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-64" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-64-28-1-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-89-1-2-6"
+       patternTransform="matrix(0.51064836,-0.51064836,0.51064836,0.51064836,181.8886,173.61712)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-64-28-1-7"
+       style="fill:#f93527"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-33-9-0-5" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-4"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,-46.45541,-80.524142)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-8"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-5"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,19.20974,-71.596478)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-6"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-11" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-1"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,-2.8140204,-100.47449)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-0"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-63"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-47"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,38.33359,-119.76311)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-63"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-17" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53" />
+    </pattern>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9" />
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3" />
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-2" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-6" />
+    </marker>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-3" />
+    <rect
+       x="75.267532"
+       y="265.87668"
+       width="426.6853"
+       height="212.15372"
+       id="rect20" />
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-33" />
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-33-8" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-9-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-0-8" />
+    </marker>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-33-7" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-63-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-47-3"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,-37.49329,-134.34011)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-63-5"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-17-7" />
+    </pattern>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-33-7-7" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-9-4-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-0-8-2" />
+    </marker>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-3-33-7-7-1" />
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-9-4-8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-0-8-2-0" />
+    </marker>
+    <rect
+       x="26.161917"
+       y="32.889606"
+       width="321.32684"
+       height="81.871696"
+       id="rect2-9-4" />
+    <rect
+       x="75.267532"
+       y="265.87668"
+       width="438.91245"
+       height="155.66144"
+       id="rect20-6" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-63-57"
+       preserveAspectRatio="xMidYMid"
+       id="pattern6-47-2"
+       patternTransform="matrix(0.88168918,-0.88168918,0.88168918,0.88168918,82.06559,-105.4621)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-63-57"
+       style="fill:#0964e6"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-17-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17-6"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-508.83636,-71.799521)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7-0"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17-8"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-450.83636,-91.799521)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7-6"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7-07"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17-1"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-435.83636,-72.799521)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7-07"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17-66"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-433.83636,-27.799521)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7-7"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#stripes-grid-7-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern17-9"
+       patternTransform="matrix(0.56568542,-0.56568542,0.56568542,0.56568542,-412.83636,-2.7995209)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="10"
+       patternTransform="scale(2)"
+       preserveAspectRatio="xMidYMid"
+       id="stripes-grid-7-5"
+       style="fill:#29981d"
+       x="0"
+       y="0"
+       inkscape:label="Stripes grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="0"
+         width="2"
+         height="10"
+         id="rect134-4-53-1" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#efe7dc;stroke:none;stroke-width:2"
+       id="rect4"
+       width="1400"
+       height="700"
+       x="0"
+       y="0"
+       ry="0"
+       rx="0"
+       inkscape:label="rect4" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 2">
+    <g
+       id="g2"
+       transform="translate(12,-1.1052744)">
+      <rect
+         style="fill:#efe7dc;stroke:#000000;stroke-width:2.14;stroke-linecap:round"
+         id="rect3-6"
+         width="679.32233"
+         height="555.47388"
+         x="653.18243"
+         y="74.47361"
+         ry="16.804539"
+         rx="16.804539" />
+      <text
+         xml:space="preserve"
+         id="text1-1-4-3-62"
+         style="font-size:26.6667px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect2-9-3-33-7);display:inline"
+         transform="translate(896.91359,549.1245)"><tspan
+           x="26.162109"
+           y="57.466481"
+           id="tspan1">Gene 1</tspan></text>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#005fe6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 726.92629,572.90306 c 141.4135,0 142.7194,-116.74781 188.9016,-116.74781 54.7542,0 42.3495,116.74781 187.23231,116.74781"
+         id="path2-6-9-1"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#29981d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 679.88209,572.90306 c 141.4135,0 142.7194,-116.74781 188.9016,-116.74781 54.7542,0 42.3495,116.74781 187.23231,116.74781"
+         id="path2-6-9-1-9"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="opacity:1;fill:none;stroke:#f93527;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 922.85009,572.90306 c 141.41341,0 142.71931,-116.74781 188.90161,-116.74781 54.7542,0 42.3494,116.74781 187.2323,116.74781"
+         id="path2-6-9-1-9-4"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-9-4)"
+         d="M 679.88219,572.90308 H 1303.8908"
+         id="path2-6-9" />
+      <text
+         xml:space="preserve"
+         id="text1-1-4-3-62-4"
+         style="font-size:26.6667px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect2-9-3-33-7-7);display:inline"
+         transform="translate(896.91359,369.1245)"><tspan
+           x="26.162109"
+           y="57.466481"
+           id="tspan2">Gene 2</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#005fe6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 912.92629,392.90306 c 141.41351,0 142.71941,-116.74781 188.90161,-116.74781 54.7542,0 42.3495,116.74781 187.2323,116.74781"
+         id="path2-6-9-1-0"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#29981d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 679.88209,392.90306 c 141.4135,0 142.7194,-116.74781 188.9016,-116.74781 54.7542,0 42.3495,116.74781 187.23231,116.74781"
+         id="path2-6-9-1-9-2"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#f93527;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 700.85009,392.90306 c 141.4134,0 142.7193,-116.74781 188.9016,-116.74781 54.7542,0 42.3494,116.74781 187.23231,116.74781"
+         id="path2-6-9-1-9-4-0"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-9-4-8)"
+         d="M 679.88219,392.90308 H 1303.8908"
+         id="path2-6-9-19" />
+      <text
+         xml:space="preserve"
+         id="text1-1-4-3-62-4-1"
+         style="font-size:26.6667px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect2-9-3-33-7-7-1);display:inline"
+         transform="translate(896.91359,189.1245)"><tspan
+           x="26.162109"
+           y="57.466481"
+           id="tspan3">Gene 3</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#005fe6;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 692.92629,212.90306 c 141.4135,0 142.7194,-116.74781 188.9016,-116.74781 54.7542,0 42.3495,116.74781 187.23231,116.74781"
+         id="path2-6-9-1-0-9"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#29981d;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 759.88209,212.90306 c 141.4135,0 142.7194,-116.74781 188.9016,-116.74781 54.75421,0 42.3495,116.74781 187.23231,116.74781"
+         id="path2-6-9-1-9-2-0"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#f93527;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 920.85009,212.90306 c 141.41341,0 142.71931,-116.74781 188.90161,-116.74781 54.7542,0 42.3494,116.74781 187.2323,116.74781"
+         id="path2-6-9-1-9-4-0-5"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-9-4-8-2)"
+         d="M 679.88219,212.90308 H 1303.8908"
+         id="path2-6-9-19-6" />
+    </g>
+    <g
+       id="g1"
+       transform="translate(-16.923591,-179.54712)">
+      <circle
+         style="fill:url(#pattern6-89-1-2-2-7);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-9-2"
+         cx="505.46942"
+         cy="574.65558"
+         r="16.725294" />
+      <rect
+         style="fill:#efe7dc;stroke:#000000;stroke-width:2.14;stroke-linecap:round"
+         id="rect3"
+         width="555.47388"
+         height="555.47388"
+         x="70.155838"
+         y="252.91545"
+         ry="16.804539"
+         rx="16.804539" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 12;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ArrowWideRounded-8)"
+         d="M 143.87098,756.40014 330.61049,622.33978"
+         id="path2-3"
+         sodipodi:nodetypes="cc" />
+      <circle
+         style="fill:url(#pattern6);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56"
+         cx="241.66499"
+         cy="426.01654"
+         r="28.878014" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75"
+         cx="184.86372"
+         cy="691.49969"
+         r="23.159906" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17-6);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75-3"
+         cx="181.09364"
+         cy="622.93005"
+         r="23.159906" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17-8);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75-35"
+         cx="239.09364"
+         cy="602.93005"
+         r="23.159906" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17-1);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75-9"
+         cx="254.09364"
+         cy="621.93005"
+         r="23.159906" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17-66);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75-96"
+         cx="256.09363"
+         cy="666.93005"
+         r="23.159906" />
+      <circle
+         style="mix-blend-mode:normal;fill:url(#pattern17-9);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-75-0"
+         cx="277.09363"
+         cy="691.93005"
+         r="23.159906" />
+      <circle
+         style="fill:url(#pattern6-89-1-2);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1"
+         cx="466.40759"
+         cy="553.83362"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-8);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-4"
+         cx="506.9137"
+         cy="537.82507"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-8-8);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-4-6"
+         cx="457.80652"
+         cy="507.0029"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-5);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-8"
+         cx="488.13745"
+         cy="515.43799"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-81);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-0"
+         cx="423.14252"
+         cy="565.2674"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-0);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-93"
+         cx="433.97504"
+         cy="524.10394"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-05);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-04"
+         cx="457.80652"
+         cy="473.55228"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-89-1-2-6);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-86-6-1-98"
+         cx="491.02612"
+         cy="545.04675"
+         r="16.725294" />
+      <circle
+         style="fill:url(#pattern6-4);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-9"
+         cx="226.90163"
+         cy="366.74979"
+         r="28.878014" />
+      <circle
+         style="fill:url(#pattern6-5);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-98"
+         cx="292.56683"
+         cy="375.67746"
+         r="28.878014" />
+      <circle
+         style="fill:url(#pattern6-1);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-4"
+         cx="270.54303"
+         cy="346.79944"
+         r="28.878014" />
+      <circle
+         style="fill:url(#pattern6-47);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-962"
+         cx="311.69061"
+         cy="327.51083"
+         r="28.878014" />
+      <circle
+         style="fill:url(#pattern6-47-2);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-962-4"
+         cx="355.42261"
+         cy="341.81186"
+         r="28.878014" />
+      <text
+         xml:space="preserve"
+         id="text1-1-4"
+         style="font-size:26.6667px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect2-9-3);display:inline"
+         transform="translate(292.10176,726.3087)"><tspan
+           x="26.162109"
+           y="57.466481"
+           id="tspan4">Gene 1</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text1-1-4-6"
+         style="font-size:26.6667px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect2-9-3-2);display:inline"
+         transform="rotate(-90,341.53914,261.62198)"><tspan
+           x="26.162109"
+           y="57.466481"
+           id="tspan5">Gene 2</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+         d="M 143.87098,756.40014 V 287.71356"
+         id="path1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+         d="M 143.87098,756.40014 H 575.21163"
+         id="path2" />
+      <circle
+         style="fill:url(#pattern6-47-3);fill-opacity:1;stroke:none;stroke-width:2.14;stroke-linecap:round"
+         id="path3-0-28-56-962-1"
+         cx="235.86372"
+         cy="312.93384"
+         r="28.878014" />
+    </g>
+  </g>
+</svg>
